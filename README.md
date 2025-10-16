@@ -1,7 +1,7 @@
 
 # [NeurIPS2025] State Space Prompting via Gathering and Spreading Spatio-Temporal Information for Video Understanding
 
-
+<div align="center">
 
 <div>
       Jiahuan Zhou<sup>1</sup>&emsp; Kai Zhu<sup>1</sup>&emsp; Zhenyu Cui<sup>1</sup>&emsp; Zichen Liu<sup>1</sup>&emsp; Xu Zou<sup>2 *</sup>&emsp; Gang Hua<sup>3</sup>
@@ -11,6 +11,15 @@
   <sup>1</sup>Wangxuan Institute of Computer Technology, Peking University&emsp;
   <sup>2</sup>School of Artificial Intelligence and Automation, Huazhong University of Science and Technology&emsp;
   <sup>3</sup>Amazon.com, Inc&emsp;
+
+</div>
+</div>
+
+<p align="center">
+<a href='https://arxiv.org/abs/2510.12160'><img src='https://img.shields.io/badge/Arxiv-2510.12160-A42C25.svg?logo=arXiv'></a>
+  <a href="https://github.com/zhoujiahuan1991/NeurIPS2025-SSP"><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fzhoujiahuan1991%2FNeurIPS2025-SSP&label=SSP&icon=github&color=%233d8bfd&message=&style=flat&tz=UTC"></a>
+</p>
+
 
 The *official* repository for  [State Space Prompting via Gathering and Spreading Spatio-Temporal Information for Video Understanding]().
 
