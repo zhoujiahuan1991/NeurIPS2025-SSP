@@ -67,7 +67,16 @@ The following results were obtained with four NVIDIA 4090 GPUs:
 
 ### Citation
 
-If you find our paper and code useful in your research, please consider giving a star and citation. To do.
+If you find our paper and code useful in your research, please consider giving a star and citation.
+
+```
+@inproceedings{zhoustate,
+  title={State Space Prompting via Gathering and Spreading Spatio-Temporal Information for Video Understanding},
+  author={Zhou, Jiahuan and Zhu, Kai and Cui, Zhenyu and Liu, Zichen and Zou, Xu and Hua, Gang},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  year={2025}
+}
+```
 
 ### Acknowledgement
 
