@@ -21,7 +21,7 @@
 </p>
 
 
-The *official* repository for  [State Space Prompting via Gathering and Spreading Spatio-Temporal Information for Video Understanding]().
+The *official* repository for  [State Space Prompting via Gathering and Spreading Spatio-Temporal Information for Video Understanding](https://arxiv.org/abs/2510.12160).
 
 
 ![Framework](figs/Framework.png)
